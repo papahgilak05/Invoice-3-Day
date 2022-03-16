@@ -1,0 +1,15 @@
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\obj\Debug\net6.0\Invoice 3 Days.csproj.AssemblyReference.cache
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\obj\Debug\net6.0\Invoice 3 Days.GeneratedMSBuildEditorConfig.editorconfig
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\obj\Debug\net6.0\Invoice 3 Days.AssemblyInfoInputs.cache
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\obj\Debug\net6.0\Invoice 3 Days.AssemblyInfo.cs
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\obj\Debug\net6.0\Invoice 3 Days.csproj.CoreCompileInputs.cache
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\bin\Debug\net6.0\Invoice 3 Days.exe
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\bin\Debug\net6.0\Invoice 3 Days.deps.json
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\bin\Debug\net6.0\Invoice 3 Days.runtimeconfig.json
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\bin\Debug\net6.0\Invoice 3 Days.dll
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\bin\Debug\net6.0\Invoice 3 Days.pdb
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\obj\Debug\net6.0\Invoice 3 Days.dll
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\obj\Debug\net6.0\refint\Invoice 3 Days.dll
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\obj\Debug\net6.0\Invoice 3 Days.pdb
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\obj\Debug\net6.0\Invoice 3 Days.genruntimeconfig.cache
+E:\MATERI METRODATA\FUNdamental C#\Invoice 3 Days\Invoice 3 Days\obj\Debug\net6.0\ref\Invoice 3 Days.dll
